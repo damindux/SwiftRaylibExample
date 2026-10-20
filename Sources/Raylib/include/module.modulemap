@@ -1,0 +1,5 @@
+module Raylib {
+    header "raylib.h"
+    link "raylib"
+    export *
+}
